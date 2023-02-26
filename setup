@@ -1,0 +1,8 @@
+http://localhost:8888/notebooks/Training.ipynb
+http://localhost:6006/#scalars
+
+Jupyter setup
+py -m notebook
+
+TensorBoard analysis setup
+py -m tensorboard.main --logdir=logs/
