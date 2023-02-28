@@ -10,8 +10,8 @@ NAME = f'PossomOrOpossumPrediction-{int(time.time())}'
 
 tensorboard = TensorBoard(log_dir =f'logs\\{NAME}\\')
 
-x = pickle.load(open("C:\Users\User\Desktop\PossomOrOpossum\x.pkl",'rb'))
-y = pickle.load(open("C:\Users\User\Desktop\PossomOrOpossum\y.pkl",'rb'))
+x = pickle.load(open("C:\\Users\\User\\Desktop\\PossumOrOpossum\\x.pkl",'rb'))
+y = pickle.load(open("C:\\Users\\User\\Desktop\\PossumOrOpossum\\y.pkl",'rb'))
 
 
 # In[14]:
