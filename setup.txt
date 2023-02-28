@@ -6,3 +6,7 @@ py -m notebook
 
 TensorBoard analysis setup
 py -m tensorboard.main --logdir=logs/
+
+
+JS
+https://www.tensorflow.org/js/models
